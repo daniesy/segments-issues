@@ -1,0 +1,16 @@
+labels:
+  - name: bug
+    color: B60205
+    description: Something isn't working
+  - name: enhancement
+    color: 0e8a16
+    description: New feature or request
+  - name: documentation
+    color: 073642
+    description: Documentation changes
+  - name: triage
+    color: f9d0c4
+    description: Needs triage
+  - name: question
+    color: 0075ca
+    description: Further information is requested
